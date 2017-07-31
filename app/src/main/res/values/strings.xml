@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MP3 TUBE DOWNLOADER</string>
+    <string name="enter_youtube_link">Enter Youtube link</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="add_new_video">Add new video</string>
+    <string name="download_audio">Download audio</string>
+    <string name="_10_min">10 min</string>
+    <string name="_15_mb">15 mb</string>
+    <string name="open_folder">Open folder</string>
+    <string name="open_file">Open file</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1142409875326374/7033351219</string>
+</resources>
